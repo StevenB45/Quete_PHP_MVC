@@ -1,0 +1,8 @@
+{
+    "autoload": {
+        "psr-4": {"project\\": "src/"}
+    },
+    "require": {
+        "squizlabs/php_codesniffer": "^3.1"
+    }
+}
